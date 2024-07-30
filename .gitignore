@@ -1,0 +1,13 @@
+.DS_Store
+.csv
+/Lesson3/*.csv
+/Lesson4/*.csv
+/Lesson5/*.npz
+/Lesson6/*.csv
+/final_assignment/data/*.txt
+/final_assignment/data/*.pdf
+/final_assignment/data/*.csv
+/final_assignment/model/*
+/final_assignment/sentence_file/*.csv
+/final_assignment/run copy.ipynb
+/final_assignment/__pycache__/*
